@@ -16,7 +16,8 @@ cp cluster_health /usr/bin/
 chmod +x /usr/bin/cluster_health
 ```
 
-Outputs:
+# Outputs:
+
 ![1](https://user-images.githubusercontent.com/50264439/136343867-6b4f52c3-be49-4296-96cf-30fce93c756c.png)
 
 
